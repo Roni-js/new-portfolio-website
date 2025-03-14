@@ -3,8 +3,6 @@ h1{
   font-size: 40px;
 }
 #nav{
-
-  position: sticky !important;
   top: 5px;
   overflow: hidden;
 }
